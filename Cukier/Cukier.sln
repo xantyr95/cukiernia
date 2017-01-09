@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cukier", "Cukier\Cukier.csproj", "{F21BBEA8-E24A-4A23-81AC-F5BCF6AFB907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21BBEA8-E24A-4A23-81AC-F5BCF6AFB907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21BBEA8-E24A-4A23-81AC-F5BCF6AFB907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21BBEA8-E24A-4A23-81AC-F5BCF6AFB907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21BBEA8-E24A-4A23-81AC-F5BCF6AFB907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
